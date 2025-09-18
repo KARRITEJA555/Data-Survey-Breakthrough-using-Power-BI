@@ -1,5 +1,5 @@
 # Data Professionals Survey Analysis (Power BI)
-![Dashboard Screenshot](Screenshot 2025-09-18 133733.png)
+![Dashboard Screenshot]([Screenshot 2025-09-18 133733.png](https://github.com/KARRITEJA555/Data-Survey-Breakthrough-using-Power-BI/blob/main/Screenshot%202025-09-18%20133733.png))
 ## Overview
 This project analyzes survey data from data professionals using **Power BI**.  
 The goal was to clean, transform, and visualize the dataset to uncover insights about programming preferences, salaries, job satisfaction, and work-life balance.
@@ -46,6 +46,7 @@ The goal was to clean, transform, and visualize the dataset to uncover insights 
 - Add more advanced DAX measures for deeper analysis.  
 - Compare results across years if longitudinal data becomes available.  
 - Integrate survey text responses for qualitative insights.  
+
 
 
 
