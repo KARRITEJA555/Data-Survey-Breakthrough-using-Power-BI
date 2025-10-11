@@ -42,10 +42,6 @@ The goal was to clean, transform, and visualize the dataset to uncover insights 
 - **Excel** (initial dataset)  
 - **GitHub** (project hosting and documentation)  
 
-## Next Steps
-- Add more advanced DAX measures for deeper analysis.  
-- Compare results across years if longitudinal data becomes available.  
-- Integrate survey text responses for qualitative insights.  
 
 
 
